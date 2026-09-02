@@ -1,4 +1,7 @@
 # FILE-RECOVERY-USING-AUTOPSY-SOFTWARE
+# Name: ELAIYAVAN K
+# Reg.no: 212224100015
+
 
 ## AIM
 To use **Autopsy Digital Forensics Tool** to retrieve deleted files from a disk image.
@@ -72,6 +75,21 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
 
 ## OUTPUT:
 Recovered Deleted File List and Details
+
+<img width="1600" height="847" alt="WhatsApp Image 2026-08-22 at 12 35 28 PM" src="https://github.com/user-attachments/assets/f641d020-a5cf-4f8a-b403-31674d738c79" />
+
+<img width="1600" height="848" alt="WhatsApp Image 2026-08-22 at 12 37 47 PM" src="https://github.com/user-attachments/assets/91879132-273e-4a7a-93b3-42a11d3432f8" />
+
+<img width="1600" height="851" alt="WhatsApp Image 2026-08-22 at 12 39 58 PM" src="https://github.com/user-attachments/assets/567316da-e765-451c-bc7c-1da915980fde" />
+
+<img width="1600" height="850" alt="WhatsApp Image 2026-08-22 at 1 40 42 PM" src="https://github.com/user-attachments/assets/d18c3f04-37e9-4dc2-af05-e86022c9c336" />
+
+<img width="1600" height="855" alt="WhatsApp Image 2026-08-22 at 2 02 12 PM" src="https://github.com/user-attachments/assets/9ca7a0f7-50db-4d95-98a7-633c077518c4" />
+
+<img width="1600" height="845" alt="WhatsApp Image 2026-08-22 at 3 24 13 PM" src="https://github.com/user-attachments/assets/cdab3681-6e03-418a-b6de-299f364a4643" />
+
+<img width="1600" height="846" alt="WhatsApp Image 2026-08-22 at 3 23 19 PM" src="https://github.com/user-attachments/assets/98879123-2dbd-430d-8e52-7b8307ae3346" />
+
 
 ## RESULT:
 Deleted files were successfully retrieved and analyzed using Autopsy.
